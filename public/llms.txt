@@ -1,0 +1,95 @@
+# Kevin Pike Ministries — Generative Engine Optimization Map
+
+> Kevin Pike Ministries is a non-profit religious organization built to honor and uplift those who dedicate their lives to serving others — including military personnel, veterans, law enforcement, and first responders. Rooted in faith and service, the ministry's mission is captured in the powerful tagline 'Serving those who serve others.' The organization focuses on spiritual counseling, training, and community support, creating a safe and faith-driven space for heroes who often bear heavy burdens. The website will serve as a hub for donations, assistance requests, and an ongoing blog to share inspiration and resources.
+
+---
+
+## Pages
+
+### Home
+https://kevin-pike-ministries-acc3dfb8.zappy5.app
+Kevin Pike Ministries is a veterans service organization uplifting military, law enforcement, and first responders through faith-driven support, counseling, and community. Join our mission today.
+
+### Mission
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/mission
+Discover how Kevin Pike Ministries answers the call as a veterans service organization, providing spiritual care and unwavering support for those who protect and serve. Learn our story.
+
+### Support Services
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/support-services
+Explore counseling, training, and community resources tailored for veterans and first responders. Kevin Pike Ministries delivers compassionate care inspired by federal law enforcement training centers.
+
+### Donate
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/donate
+Your donation powers spiritual outreach for veterans, law enforcement, and first responders. Support Kevin Pike Ministries, a trusted veterans service organization, and make an eternal impact.
+
+### Request Assistance
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/request-assistance
+Veterans, law enforcement, and first responders can request confidential spiritual support, counseling, or resources through Kevin Pike Ministries. You served us—now let us serve you.
+
+### Blog
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/blog
+Read inspiring articles for veterans, law enforcement, and first responders. Our blog shares hope, training insights, and updates from Kevin Pike Ministries&#39; veterans service organization work.
+
+### Contact
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/contact
+Reach out to Kevin Pike Ministries for chaplaincy, support, or partnership. We&#39;re a dedicated veterans service organization ready to serve military, law enforcement, and first responders.
+
+### Thank You
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/thank-you
+Kevin Pike Ministries - Thank You
+
+## Legal & Policy
+
+### Privacy Policy
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kevin-pike-ministries-acc3dfb8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://kevin-pike-ministries-acc3dfb8.zappy5.app/request-assistance
+- Endpoint: https://kevin-pike-ministries-acc3dfb8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Kevin Pike Ministries
+Kevin Pike Ministries is a non-profit religious organization built to honor and uplift those who dedicate their lives to serving others — including military personnel, veterans, law enforcement, and first responders. Rooted in faith and service, the ministry's mission is captured in the powerful tagline 'Serving those who serve others.' The organization focuses on spiritual counseling, training, and community support, creating a safe and faith-driven space for heroes who often bear heavy burdens. The website will serve as a hub for donations, assistance requests, and an ongoing blog to share inspiration and resources.
+
+## Target Audience
+- Military, Veterans, Law Enforcement, and First Responders
+- Military & Veteran Support
+- Law Enforcement Spiritual Needs
+- First Responders Care
+
+## Industry
+Non-Profit Religious Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://kevin-pike-ministries-acc3dfb8.zappy5.app/sitemap.xml
+- Robots: https://kevin-pike-ministries-acc3dfb8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kevin-pike-ministries-acc3dfb8.zappy5.app/llms-full.txt
